@@ -1,0 +1,6 @@
+{
+  "name": "SEHIL YT",
+  "description": "Extract and download high-quality MP3/audio from YouTube videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
